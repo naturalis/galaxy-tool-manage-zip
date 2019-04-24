@@ -1,5 +1,5 @@
 # galaxy-tool-manage-zip
-Manage zip tool for galaxy (transferred from old galaxy)
+Manage zip tool for galaxy (transferred from old galaxy). The original github page can be found here: https://github.com/naturalis/Galaxy-Pipeline
 ## Getting Started
 ### Installing
 Installing the tool for use in Galaxy
