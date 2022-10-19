@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# sanity check
+printf "Conda env: $CONDA_DEFAULT_ENV\n"
+printf "Unzip version: $(unzip -v | head -n1 | awk '{print $1,$2}')\n"
+printf "Bash version: ${BASH_VERSION}\n\n"
+
 # display ZIP content
 if [ "$1" == "display" ]
 then
