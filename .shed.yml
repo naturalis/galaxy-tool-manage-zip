@@ -1,0 +1,13 @@
+name: naturalis_manage_zip
+owner:   duijker.d
+description: " Manage (ZIP) files in the current history. Extract or create." 
+long_description: |
+  " Manage (ZIP) files in the current history. Extract or create .ZIP files, bulk rename ZIPed files or delete files from an archive.".
+remote_repository_url: https://github.com/naturalis/galaxy-tool-manage-zip.git
+homepage_url: https://github.com/naturalis/galaxy-tool-manage-zip.git
+type: unrestricted
+categories:
+   - "Sequence Analysis"
+auto_tool_repositories:
+  name_template: naturalis_manage_zip
+  description_template: naturalis_manage_zip
