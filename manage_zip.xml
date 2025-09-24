@@ -1,4 +1,4 @@
-<tool id="manage_zip" name="Manage ZIP" version="1.0" force_history_refresh="True">
+<tool id="manage_zip" name="Manage ZIP" version="1.1" force_history_refresh="True">
         <!--description>Manage ZIP collection</description-->
 		<requirements>
 			<requirement type="package" version="6.0">unzip</requirement>
