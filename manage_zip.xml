@@ -1,8 +1,7 @@
-<tool id="manage_zip" name="Manage ZIP" version="1.2" force_history_refresh="True">
+<tool id="manage_zip" name="Manage ZIP" version="1.1" force_history_refresh="True">
         <!--description>Manage ZIP collection</description-->
 		<requirements>
 			<requirement type="package" version="6.0">unzip</requirement>
-			<container type="docker">ghcr.io/naturalis/galaxy-tool-manage-zip:v1.2</container>
 		</requirements>
         <!-- collect the parameters and provide these to the wrapper script -->
         <command>
